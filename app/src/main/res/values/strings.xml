@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyDailyPlannerApp</string>
+    <string name="add_button" />
+    <string name="update_button" />
+    <string name="remove">Remove</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="search">search</string>
+    <string name="hint">hint</string>
+    <string name="date">date</string>
+    <string name="text">text</string>
+    <string name="title">title</string>
+    <string name="submit">Submit</string>
+    <string name="Text" />
+    <string name="Date" />
+    <string name="Title" />
+    <string name="list" />
+    <string name="title_text" />
+    <string name="task_text" />
+    <string name="done_button" />
+    <string name="delete">Delete</string>
+    <string name="event_text" />
+    <string name="save" />
+    <string name="new_title">New Title</string>
+    <string name="event">Event</string>
+    <string name="new_event">New Event</string>
+    <string name="new_date">New Date</string>
+    <string name="back">back</string>
+</resources>
